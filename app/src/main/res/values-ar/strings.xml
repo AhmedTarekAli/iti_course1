@@ -3,4 +3,12 @@
     <string name="username">اسم المستخدم</string>
     <string name="login_formal">Login Formal</string>
     <string name="password">كلمه السر</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="football">football</string>
+    <string name="handball">handball</string>
+    <string name="basketball">BasketBall</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="login">login</string>
 </resources>
