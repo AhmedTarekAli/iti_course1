@@ -16,9 +16,7 @@ lateinit var binding: ActivityMainBinding
 
            Toast.makeText(this, "User name : ${binding.editTtext.text}", Toast.LENGTH_SHORT).show()
            Toast.makeText(this, "Password : ${binding.passwrdEd.text}", Toast.LENGTH_SHORT).show()
-          //  Toast.makeText(this, "User name = ${binding.radio.}", Toast.LENGTH_SHORT).show()
 
-           // Toast.makeText(this, "User3 name = ${binding.liner1}", Toast.LENGTH_SHORT).show()
 
 
         }
